@@ -21,3 +21,9 @@ You will notice that there a several directories, some prefixed with UI and othe
 - All completed exercise files should reside in the applicable exercise's directory.
 - Add comments to each exercise README describing how to run you code.
 - Have fun!
+
+## Ashish comments
+ - copy objectProp.html & objProps.js
+ - open objectProp.html file in chrome browser
+ - in input text provide the object path (default path is given )
+ - click on button, it will display the property value on browser
