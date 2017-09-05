@@ -1,3 +1,4 @@
+
 # UI-bar-graph exercise
 
 ## Instructions
@@ -7,3 +8,6 @@
 - After you complete the exercise, provide notes below on how your code can be ran whether it be by simply opening a index.html file or through an npm command
 
 ## Candidate Notes:
+- copy barchart.html, barstyle.css & barscript.js files in WEB-INF to your dynamic web project
+- open barchart.html in chrome
+- this will show the bar graph for given data
